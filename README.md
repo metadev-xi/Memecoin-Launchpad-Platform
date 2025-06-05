@@ -123,9 +123,10 @@ The platform has launched several successful tokens that have achieved significa
 
 ## Contact
 
-- Website: [0x Technologies](https://0xtech.guru)
+- Website: [0x Technologies](https://0xtech.org)
 - Twitter: [@0x Technologies](https://twitter.com/0xtech.guru)
 - Email: metadevxi@gmail.com
+- Telegram: metaDevxi
 
 ## Legal Disclaimer
 
